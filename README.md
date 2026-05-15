@@ -51,7 +51,7 @@ Swagger UI: `http://localhost:8080/swagger-ui/index.html`
 
 API desplegada en Render (free tier — primer request puede tardar ~50s):
 
-🔗 [Swagger UI]()
+🔗 Swagger UI: `https://inventory-api-znoz.onrender.com/swagger-ui/index.html`
 
 ## Autor
 
